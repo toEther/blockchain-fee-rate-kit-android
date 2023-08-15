@@ -1,4 +1,4 @@
-package io.horizontalsystems.feeratekit.demo
+package io.definenulls.feeratekit.demo
 
 import android.app.Application
 

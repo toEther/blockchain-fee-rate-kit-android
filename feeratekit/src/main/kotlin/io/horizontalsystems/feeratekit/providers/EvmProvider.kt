@@ -1,10 +1,10 @@
-package io.horizontalsystems.feeratekit.providers
+package io.definenulls.feeratekit.providers
 
 import android.util.Base64
 import android.util.Log
 import com.eclipsesource.json.JsonArray
 import com.eclipsesource.json.JsonObject
-import io.horizontalsystems.feeratekit.utils.HttpUtils
+import io.definenulls.feeratekit.utils.HttpUtils
 import io.reactivex.Single
 import java.math.BigInteger
 import java.util.logging.Logger

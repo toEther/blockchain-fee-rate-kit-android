@@ -1,4 +1,4 @@
-package io.horizontalsystems.feeratekit.demo
+package io.definenulls.feeratekit.demo
 
 import android.os.Bundle
 import android.widget.Button

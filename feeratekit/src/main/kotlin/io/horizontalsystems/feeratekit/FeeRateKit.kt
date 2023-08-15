@@ -1,8 +1,8 @@
-package io.horizontalsystems.feeratekit
+package io.definenulls.feeratekit
 
-import io.horizontalsystems.feeratekit.model.FeeProviderConfig
-import io.horizontalsystems.feeratekit.providers.BtcCoreProvider
-import io.horizontalsystems.feeratekit.providers.EvmProvider
+import io.definenulls.feeratekit.model.FeeProviderConfig
+import io.definenulls.feeratekit.providers.BtcCoreProvider
+import io.definenulls.feeratekit.providers.EvmProvider
 import io.reactivex.Single
 import java.math.BigInteger
 

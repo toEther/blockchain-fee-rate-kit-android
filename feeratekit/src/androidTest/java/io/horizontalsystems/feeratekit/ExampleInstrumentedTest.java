@@ -1,4 +1,4 @@
-package io.horizontalsystems.feeratekit;
+package io.definenulls.feeratekit;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("io.horizontalsystems.feeratekit.test", appContext.getPackageName());
+        assertEquals("io.definenulls.feeratekit.test", appContext.getPackageName());
     }
 }

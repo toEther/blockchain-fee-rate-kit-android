@@ -1,4 +1,4 @@
-package io.horizontalsystems.feeratekit.model
+package io.definenulls.feeratekit.model
 
 class FeeProviderConfig(
     val ethEvmUrl: String,

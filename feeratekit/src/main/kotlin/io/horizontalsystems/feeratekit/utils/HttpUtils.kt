@@ -1,4 +1,4 @@
-package io.horizontalsystems.feeratekit.utils
+package io.definenulls.feeratekit.utils
 
 import com.eclipsesource.json.Json
 import com.eclipsesource.json.JsonValue

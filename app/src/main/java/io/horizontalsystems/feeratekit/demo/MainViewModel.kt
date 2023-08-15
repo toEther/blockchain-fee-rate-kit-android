@@ -1,10 +1,10 @@
-package io.horizontalsystems.feeratekit.demo
+package io.definenulls.feeratekit.demo
 
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import io.horizontalsystems.feeratekit.FeeRateKit
-import io.horizontalsystems.feeratekit.model.FeeProviderConfig
+import io.definenulls.feeratekit.FeeRateKit
+import io.definenulls.feeratekit.model.FeeProviderConfig
 import io.reactivex.Single
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers

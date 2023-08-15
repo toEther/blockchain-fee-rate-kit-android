@@ -1,4 +1,4 @@
-package io.horizontalsystems.feeratekit;
+package io.definenulls.feeratekit;
 
 import org.junit.Test;
 
